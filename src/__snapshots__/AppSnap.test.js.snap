@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`that DOM renders consistently 1`] = `
+<div
+  className="App"
+>
+  <p>
+    Hello World!
+  </p>
+</div>
+`;
