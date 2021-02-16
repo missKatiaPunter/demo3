@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/768a515d-d47e-4546-9dbd-8561ecb8a64c/deploy-status)](https://app.netlify.com/sites/zen-curran-9bd2fa/deploys)
+
+[View live/deployed app here](https://zen-curran-9bd2fa.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
