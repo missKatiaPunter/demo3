@@ -5,6 +5,7 @@ exports[`that DOM renders consistently 1`] = `
   className="App"
 >
   <button
+    className="button"
     data-testid="counter-butt"
     onClick={[Function]}
   >
