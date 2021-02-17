@@ -4,8 +4,12 @@ exports[`that DOM renders consistently 1`] = `
 <div
   className="App"
 >
-  <p>
-    Hello World!
-  </p>
+  <button
+    className="button"
+    data-testid="counter-butt"
+    onClick={[Function]}
+  >
+    0
+  </button>
 </div>
 `;
